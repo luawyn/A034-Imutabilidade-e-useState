@@ -125,7 +125,7 @@ const PokemonCard = (props) => {
       </p>
 
       <EvolveButton onClick={() => evoluirPokemon(props.pokemon.number)}>
-        Evoluir!
+        Evolve!
       </EvolveButton>
     </Card>
   );
