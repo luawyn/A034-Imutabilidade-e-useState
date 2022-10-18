@@ -24,7 +24,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "1",
-    stone: "Use a Water Stone to envolve",
+    stone: "Use a Water Stone to evolve",
   });
   const [pokemon1, setPokemon1] = useState({
     name: "Eevee",
@@ -36,7 +36,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "2",
-    stone: "Use a Thunder Stone to envolve",
+    stone: "Use a Thunder Stone to evolve",
   });
   const [pokemon2, setPokemon2] = useState({
     name: "Eevee",
@@ -48,7 +48,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "3",
-    stone: "Use a Fire Stone to envolve",
+    stone: "Use a Fire Stone to evolve",
   });
   const [pokemon3, setPokemon3] = useState({
     name: "Eevee",
@@ -60,7 +60,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "4",
-    stone: "Use a Sun Shard to envolve",
+    stone: "Use a Sun Shard to evolve",
   });
   const [pokemon4, setPokemon4] = useState({
     name: "Eevee",
@@ -72,7 +72,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "5",
-    stone: "Use a Moon Shard to envolve",
+    stone: "Use a Moon Shard to evolve",
   });
   const [pokemon5, setPokemon5] = useState({
     name: "Eevee",
@@ -84,7 +84,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "6",
-    stone: "Use a Leaf Stone to envolve",
+    stone: "Use a Leaf Stone to evolve",
   });
   const [pokemon6, setPokemon6] = useState({
     name: "Eevee",
@@ -96,7 +96,7 @@ function App() {
       "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
     id: 133,
     number: "7",
-    stone: "Use a Ice Stone to envolve",
+    stone: "Use a Ice Stone to evolve",
   });
   const [pokemon7, setPokemon7] = useState({
     name: "Eevee",
@@ -109,7 +109,7 @@ function App() {
     id: 133,
     number: "8",
     stone:
-      "Knowing a Fairy-type move and having at least two levels of affection to envolve",
+      "Knowing a Fairy-type move and having at least two levels of affection to evolve",
   });
   // Para fazer seus próximos pokemons, crie novos estados!
 
