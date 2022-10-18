@@ -1,10 +1,9 @@
 # useState()
 
 # RESULTADO DO PROJETO
+![image](https://user-images.githubusercontent.com/92114917/196515322-b84d668c-b18b-4955-966f-fbbf6a700dd1.png)
 
-![image](https://user-images.githubusercontent.com/92114917/196456948-2524901c-e776-450e-9f23-85fdf409d8c2.png)
-
-![image](https://user-images.githubusercontent.com/92114917/196456683-8f3e6d40-2a4c-40ec-947b-648cfbdbfc28.png)
+![image](https://user-images.githubusercontent.com/92114917/196515574-d8883024-415f-4048-86e9-526c87187cdc.png)
 
 Caso não lembre como funciona o processo de entrega, clique [**aqui**](https://github.com/labenuexercicios/instrucoes-entrega)
 
